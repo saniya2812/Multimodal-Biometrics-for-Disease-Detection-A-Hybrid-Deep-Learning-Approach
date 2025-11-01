@@ -10,11 +10,11 @@ DIFFERENT MODELS FOR OUR PROJECT
 
 4.HAAR CASCADE
     
-5.HYBRID 
+5.HYBRID
 
-6. VGG
+6.VGG
 
-7. EFFICIENT NET
+7.EFFICIENT NET
    
 The increasing reliance on AI-driven solutions in healthcare has led to the development of non-invasive diagnostic methods. Traditional diagnostic techniques often involve invasive procedures or costly medical imaging, making early disease detection a challenge. Facial biometrics, which is commonly used in security and identity verification, is now being explored for medical purposes. Various diseases, including genetic disorders, neurological diseases, and dermatological conditions, can manifest in subtle facial feature variations. 
 The integration of AI and facial biometrics provides a novel way to analyze facial characteristics and detect potential health risks. This paper examines the current state of automated disease detection using facial biometrics, its potential applications, and the challenges that need to be addressed to make this technology more effective and reliable.
